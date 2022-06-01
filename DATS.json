@@ -1,0 +1,229 @@
+{
+  "title": "Canadian Open Parkinson Network (C-OPN) LORIS Dataset",
+  "description": "The Canadian Open Parkinson Network (C-OPN) is a Canada-wide research network that collects demographic, epidemiological and clinical data, as well as blood samples processed to isolate DNA, serum and PBMCs for iPCS generation, from people living with Parkinson’s disease (PD) or a related disorder. C-OPN is actively recruiting participants from the following centres/networks: Quebec Parkinson Network (McGill University, University of Montreal, University of Laval), Parkinson Research Consortium in Ottawa (University of Ottawa), Movement Disorders Centre at the Toronto Western Hospital (University of Toronto),, Calgary Parkinson Research Initiative (University of Calgary), Movement Disorders Program (University of Alberta), Pacific Parkinson’s Research Centre (University of British Columbia). A primary goal of C-OPN is to support cutting-edge, multi-disciplinary and multi-site PD-related research studies across Canada and possibly beyond. The C-OPN LORIS dataset accompanies one other database: C-BIG Repository Biobank. Key Metrics: No. of participants enrolled in C-OPN: 974, No. of participants currently in LORIS dataset: 681, No. of biospecimens available: 422 DNA, 268 serum, 262 PBMC samples.",
+  "creators": [
+    {
+      "name": "Canadian Open Parkinson Network",
+      "abbreviation": "C-OPN",
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Demographic"
+      }
+    },
+    {
+      "information": {
+        "value": "Epidemiological"
+      }
+    },
+    {
+      "information": {
+        "value": "Clinical"
+      }
+    },
+    {
+      "information": {
+        "value": "Biospecimen"
+      }
+    },
+    {
+      "information": {
+        "value": "Blood sample"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "registered",
+  "licenses": [
+    {
+      "name": "TBD"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "CSV, HTML"
+      ],
+      "size": 30,
+      "unit": {
+        "value": "MB"
+      },
+      "access": {
+        "landingPage": "https://copn.loris.ca/",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Clinical perception and management of Parkinson's disease during the COVID-19 pandemic: a Canadian experience",
+      "publicationVenue": "Parkinsonism and Related Disorders",
+      "authors": [],
+      "dates": [],
+      "identifier": {
+        "identifier": "10.1016/j.parkreldis.2021.08.018",
+        "identifierSource": "doi.org"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Brain Canada",
+          "abbreviation": ""
+        },
+        {
+          "name": "Parkinson Canada",
+          "abbreviation": ""
+        },
+        {
+          "name": "Tanenbaum Open Science Institute",
+          "abbreviation": "TOSI"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Parkinson"
+    },
+    {
+      "value": "Parkinson Plus Syndrome"
+    },
+    {
+      "value": "Neurodegenerative"
+    },
+    {
+      "value": "Multi-site"
+    },
+    {
+      "value": "Neurological"
+    },
+    {
+      "value": "Disease"
+    },
+    {
+      "value": "Movement Disorder"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "682"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "420"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_consortium",
+      "values": [
+        {
+          "value": "Canadian Open Parkinson Network"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "University of Calgary"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Calgary"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Alberta"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "logo.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Zaliqa Rosli, zaliqa.rosli@mcin.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    },
+    {
+      "category": "REB_number",
+      "values": [
+        {
+          "value": "REB19-1688"
+        }
+      ]
+    }
+  ]
+}
