@@ -69,7 +69,153 @@
     {
       "title": "Clinical perception and management of Parkinson's disease during the COVID-19 pandemic: a Canadian experience",
       "publicationVenue": "Parkinsonism and Related Disorders",
-      "authors": [],
+      "authors": [
+		{
+			"fullName": "Aurelie de Rus Jacquet",
+			"firstName": "Aurelie",
+			"middleInitial": "",
+			"lastName": "de Rus Jacquet",
+			"affiliations": [
+				{
+					"name": "Centre de Recherche du CHU de Quebec - Universite Laval, Axe Neurosciences, Quebec, QC, Canada"
+				},
+				{
+					"name": "Departement de Psychiatrie & Neurosciences, Universite Laval, Quebec, QC, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Sarah Bogard",
+			"firstName": "Sarah",
+			"middleInitial": "",
+			"lastName": "Bogard",
+			"affiliations": [
+				{
+					"name": "Neurodegenerative Diseases Group, Montreal Neurological Institute-Hospital, Department of Neurology and Neurosurgery, McGill University, Montreal, QC, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Catherine P. Normandeau",
+			"firstName": "Catherine",
+			"middleInitial": "P",
+			"lastName": "Normandeau",
+			"affiliations": [
+				{
+					"name": "Department of Clinical Neurosciences, University of Calgary, Calgary, AB, Canada"
+				},
+				{
+					"name": "Department of Radiology, University of Calgary, Calgary, AB, Canada"
+				},
+				{
+					"name": "Hotchkiss Brain Institute, Cumming School of Medicine, Calgary, AB, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Clotilde Degroot",
+			"firstName": "Clotilde",
+			"middleInitial": "",
+			"lastName": "Degroot",
+			"affiliations": [
+				{
+					"name": "Neurodegenerative Diseases Group, Montreal Neurological Institute-Hospital, Department of Neurology and Neurosurgery, McGill University, Montreal, QC, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Ronald B. Postuma",
+			"firstName": "Ronald",
+			"middleInitial": "B",
+			"lastName": "Postuma",
+			"affiliations": [
+				{
+					"name": "Neurodegenerative Diseases Group, Montreal Neurological Institute-Hospital, Department of Neurology and Neurosurgery, McGill University, Montreal, QC, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Nicolas Dupre",
+			"firstName": "Nicolas",
+			"middleInitial": "",
+			"lastName": "Dupre",
+			"affiliations": [
+				{
+					"name": "Centre de Recherche du CHU de Quebec - Universite Laval, Axe Neurosciences, Quebec, QC, Canada"
+				},
+				{
+					"name": "Departement de Medecine, Faculte de Medicine, Universite Laval, Quebec, QC, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Janis M. Miyasaki",
+			"firstName": "Janis",
+			"middleInitial": "M",
+			"lastName": "Miyasaki",
+			"affiliations": [
+				{
+					"name": "University of Alberta, Edmonton, AB, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Oury Monchi",
+			"firstName": "Oury",
+			"middleInitial": "",
+			"lastName": "Monchi",
+			"affiliations": [
+				{
+					"name": "Department of Clinical Neurosciences, University of Calgary, Calgary, AB, Canada"
+				},
+				{
+					"name": "Department of Radiology, University of Calgary, Calgary, AB, Canada"
+				},
+				{
+					"name": "Hotchkiss Brain Institute, Cumming School of Medicine, Calgary, AB, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Davide Martino",
+			"firstName": "Davide",
+			"middleInitial": "",
+			"lastName": "Martino",
+			"affiliations": [
+				{
+					"name": "Department of Clinical Neurosciences, University of Calgary, Calgary, AB, Canada"
+				},
+				{
+					"name": "Hotchkiss Brain Institute, Cumming School of Medicine, Calgary, AB, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Edward A. Fon",
+			"firstName": "Edward",
+			"middleInitial": "A",
+			"lastName": "Fon",
+			"affiliations": [
+				{
+					"name": "Neurodegenerative Diseases Group, Montreal Neurological Institute-Hospital, Department of Neurology and Neurosurgery, McGill University, Montreal, QC, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Francesca Cicchetti",
+			"firstName": "Francesca",
+			"middleInitial": "",
+			"lastName": "Cicchetti",
+			"affiliations": [
+				{
+					"name": "Centre de Recherche du CHU de Quebec - Universite Laval, Axe Neurosciences, Quebec, QC, Canada"
+				},
+				{
+					"name": "Departement de Psychiatrie & Neurosciences, Universite Laval, Quebec, QC, Canada"
+				}
+			]
+		}
+      ],
       "dates": [],
       "identifier": {
         "identifier": "10.1016/j.parkreldis.2021.08.018",
