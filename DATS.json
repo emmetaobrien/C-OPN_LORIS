@@ -1,6 +1,6 @@
 {
   "title": "Canadian Open Parkinson Network (C-OPN) LORIS Dataset",
-  "description": "The Canadian Open Parkinson Network (C-OPN) is a Canada-wide research network that collects demographic, epidemiological and clinical data, as well as blood samples processed to isolate DNA, serum and PBMCs for iPCS generation, from people living with Parkinson’s disease (PD) or a related disorder. C-OPN is actively recruiting participants from the following centres/networks: Quebec Parkinson Network (McGill University, University of Montreal, University of Laval), Parkinson Research Consortium in Ottawa (University of Ottawa), Movement Disorders Centre at the Toronto Western Hospital (University of Toronto),, Calgary Parkinson Research Initiative (University of Calgary), Movement Disorders Program (University of Alberta), Pacific Parkinson’s Research Centre (University of British Columbia). A primary goal of C-OPN is to support cutting-edge, multi-disciplinary and multi-site PD-related research studies across Canada and possibly beyond. The C-OPN LORIS dataset accompanies one other database: C-BIG Repository Biobank. Key Metrics: No. of participants enrolled in C-OPN: 974, No. of participants currently in LORIS dataset: 681, No. of biospecimens available: 422 DNA, 268 serum, 262 PBMC samples.",
+  "description": "The Canadian Open Parkinson Network (C-OPN) is a Canada-wide research network that collects demographic, epidemiological and clinical data, as well as blood samples processed to isolate DNA, serum and PBMCs for iPCS generation, from people living with Parkinson’s disease (PD) or a related disorder. C-OPN is actively recruiting participants from the following centres/networks: Quebec Parkinson Network (McGill University, University of Montreal, University of Laval), Parkinson Research Consortium in Ottawa (University of Ottawa), Movement Disorders Centre at the Toronto Western Hospital (University of Toronto), Calgary Parkinson Research Initiative (University of Calgary), Movement Disorders Program (University of Alberta), Pacific Parkinson’s Research Centre (University of British Columbia). A primary goal of C-OPN is to support cutting-edge, multi-disciplinary and multi-site PD-related research studies across Canada and possibly beyond. The C-OPN LORIS dataset accompanies one other database: C-BIG Repository Biobank. Key Metrics: No. of participants enrolled in C-OPN: 974, No. of participants currently in LORIS dataset: 681, No. of biospecimens available: 422 DNA, 268 serum, 262 PBMC samples.",
   "creators": [
     {
       "name": "Canadian Open Parkinson Network",
@@ -69,7 +69,153 @@
     {
       "title": "Clinical perception and management of Parkinson's disease during the COVID-19 pandemic: a Canadian experience",
       "publicationVenue": "Parkinsonism and Related Disorders",
-      "authors": [],
+      "authors": [
+		{
+			"fullName": "Aurelie de Rus Jacquet",
+			"firstName": "Aurelie",
+			"middleInitial": "",
+			"lastName": "de Rus Jacquet",
+			"affiliations": [
+				{
+					"name": "Centre de Recherche du CHU de Quebec - Universite Laval, Axe Neurosciences, Quebec, QC, Canada"
+				},
+				{
+					"name": "Departement de Psychiatrie & Neurosciences, Universite Laval, Quebec, QC, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Sarah Bogard",
+			"firstName": "Sarah",
+			"middleInitial": "",
+			"lastName": "Bogard",
+			"affiliations": [
+				{
+					"name": "Neurodegenerative Diseases Group, Montreal Neurological Institute-Hospital, Department of Neurology and Neurosurgery, McGill University, Montreal, QC, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Catherine P. Normandeau",
+			"firstName": "Catherine",
+			"middleInitial": "P",
+			"lastName": "Normandeau",
+			"affiliations": [
+				{
+					"name": "Department of Clinical Neurosciences, University of Calgary, Calgary, AB, Canada"
+				},
+				{
+					"name": "Department of Radiology, University of Calgary, Calgary, AB, Canada"
+				},
+				{
+					"name": "Hotchkiss Brain Institute, Cumming School of Medicine, Calgary, AB, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Clotilde Degroot",
+			"firstName": "Clotilde",
+			"middleInitial": "",
+			"lastName": "Degroot",
+			"affiliations": [
+				{
+					"name": "Neurodegenerative Diseases Group, Montreal Neurological Institute-Hospital, Department of Neurology and Neurosurgery, McGill University, Montreal, QC, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Ronald B. Postuma",
+			"firstName": "Ronald",
+			"middleInitial": "B",
+			"lastName": "Postuma",
+			"affiliations": [
+				{
+					"name": "Neurodegenerative Diseases Group, Montreal Neurological Institute-Hospital, Department of Neurology and Neurosurgery, McGill University, Montreal, QC, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Nicolas Dupre",
+			"firstName": "Nicolas",
+			"middleInitial": "",
+			"lastName": "Dupre",
+			"affiliations": [
+				{
+					"name": "Centre de Recherche du CHU de Quebec - Universite Laval, Axe Neurosciences, Quebec, QC, Canada"
+				},
+				{
+					"name": "Departement de Medecine, Faculte de Medicine, Universite Laval, Quebec, QC, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Janis M. Miyasaki",
+			"firstName": "Janis",
+			"middleInitial": "M",
+			"lastName": "Miyasaki",
+			"affiliations": [
+				{
+					"name": "University of Alberta, Edmonton, AB, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Oury Monchi",
+			"firstName": "Oury",
+			"middleInitial": "",
+			"lastName": "Monchi",
+			"affiliations": [
+				{
+					"name": "Department of Clinical Neurosciences, University of Calgary, Calgary, AB, Canada"
+				},
+				{
+					"name": "Department of Radiology, University of Calgary, Calgary, AB, Canada"
+				},
+				{
+					"name": "Hotchkiss Brain Institute, Cumming School of Medicine, Calgary, AB, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Davide Martino",
+			"firstName": "Davide",
+			"middleInitial": "",
+			"lastName": "Martino",
+			"affiliations": [
+				{
+					"name": "Department of Clinical Neurosciences, University of Calgary, Calgary, AB, Canada"
+				},
+				{
+					"name": "Hotchkiss Brain Institute, Cumming School of Medicine, Calgary, AB, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Edward A. Fon",
+			"firstName": "Edward",
+			"middleInitial": "A",
+			"lastName": "Fon",
+			"affiliations": [
+				{
+					"name": "Neurodegenerative Diseases Group, Montreal Neurological Institute-Hospital, Department of Neurology and Neurosurgery, McGill University, Montreal, QC, Canada"
+				}
+			]
+		},
+		{
+			"fullName": "Francesca Cicchetti",
+			"firstName": "Francesca",
+			"middleInitial": "",
+			"lastName": "Cicchetti",
+			"affiliations": [
+				{
+					"name": "Centre de Recherche du CHU de Quebec - Universite Laval, Axe Neurosciences, Quebec, QC, Canada"
+				},
+				{
+					"name": "Departement de Psychiatrie & Neurosciences, Universite Laval, Quebec, QC, Canada"
+				}
+			]
+		}
+      ],
       "dates": [],
       "identifier": {
         "identifier": "10.1016/j.parkreldis.2021.08.018",
